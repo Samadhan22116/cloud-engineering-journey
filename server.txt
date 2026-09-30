@@ -1,0 +1,5 @@
+my first Linux server
+ Cloud Engineering Journey 
+server: Ubuntu
+Environment: Developent
+Environment: Development
